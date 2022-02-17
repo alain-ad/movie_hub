@@ -1,2 +1,6 @@
 *.js
+<<<<<<< HEAD
 *.xml
+=======
+resources/images/films/
+>>>>>>> f80282f94401f35b12e02790ff9d5a73b908276d
