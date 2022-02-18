@@ -55,5 +55,6 @@ footer {
 }
 
 body, p {
-    text-indent: default;
+    text-indent: 1ch;
+    text-align: justify;
 }
